@@ -17,7 +17,7 @@
 
 ## Reach Me On
 - 📨 **Telegram**: @mezor13
-- 📊 **TradingView**: @gotbeatz26107
+- 📊 **TradingView**: @mezor13
 
 Feel free to reach out if you're interested in collaborating or if there's an opportunity you believe aligns with my skills!
 
