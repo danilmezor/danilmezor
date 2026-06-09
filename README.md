@@ -1,37 +1,47 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm Danil 👋
 
-## About Me
-- 📚 **Current Study**: Pursuing a degree in Computer Science.
-- 🌎 **Location**: Based in the Pacific Time Zone, PT.
-- 🕒 **Availability**: Open for job opportunities and collaborations.
+**Data Science / Machine Learning Engineer** — I build ML systems and
+algorithmic trading tools, and shoot landscape & travel photography on the side.
 
-## What I'm Working On
-- 💻 **Machine Learning**: Actively developing and refining algorithms for various applications.
-- 📈 **Trading Algorithms**: Crafting innovative solutions for financial markets.
-- 📚 **Data Structures & Algorithms**: Deepening my understanding through continuous learning.
-- 📉 **Pine Script**: Enjoy creating scripts for trading indicators and strategies on TradingView.
+- 🤖 **Machine Learning & Data Science** — building and shipping models for real-world applications
+- 📈 **Algorithmic Trading** — designing trading strategies, indicators, and automation
+- 📉 **Pine Script** — crafting indicators & strategies for TradingView
+- 📷 **Photography** — long-exposure landscapes and visual storytelling from across the American West
+- 🌎 Based in the Pacific Time Zone (PT)
 
-## I'm Open For
-- 💼 **Job Opportunities**: Eager to bring my expertise to your team.
-- 🤝 **Collaborations**: Let's work together on machine learning projects, trading algorithms, or Pine Script development.
+## 🔗 Links
 
-## Reach Me On
-- 📨 **Telegram**: @mezor13
-- 📊 **TradingView**: @mezor13
+[![Engineering Portfolio](https://img.shields.io/badge/Engineering-danilzanozin.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danilzanozin.dev)
+[![Photography](https://img.shields.io/badge/Photography-danilzanozin.com-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danilzanozin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danil-zanozin-603878199/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danil.zanozin@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muscrue/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mezor13)
+[![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/mezor13/)
 
-Feel free to reach out if you're interested in collaborating or if there's an opportunity you believe aligns with my skills!
+## 🛠️ What I'm working on
 
-<!--
-**danilmezor/danilmezor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **ML & Data Science** — developing and refining algorithms for production use cases
+- **Trading algorithms** — innovative solutions for financial markets, from backtest to live
+- **Pine Script** — open to building custom TradingView indicators & strategies
+- **Data Structures & Algorithms** — continuous learning and deliberate practice
 
-Here are some ideas to get you started:
+## 💡 Open for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Job opportunities** — ML / Data Science / quantitative roles
+- 🤝 **Collaborations** — machine learning projects, trading systems, or Pine Script work
+
+## 📌 Featured project
+
+- [**danilzanozin.com**](https://danilzanozin.com) ([source](https://github.com/danilmezor/PhotoWeb)) — my photography portfolio: a React 19 + Vite app with a build-time prerender for SEO, a Gaussian-splat 3D photo viewer, and WebGL depth-parallax galleries.
+
+## 📫 Reach me
+
+- 📨 **Telegram**: [@mezor13](https://t.me/mezor13)
+- 📊 **TradingView**: [@mezor13](https://www.tradingview.com/u/mezor13/)
+- 💼 **LinkedIn**: [Danil Zanozin](https://www.linkedin.com/in/danil-zanozin-603878199/)
+- 📧 **Email**: danil.zanozin@gmail.com
+
+---
+
+Feel free to reach out if you'd like to collaborate or if there's an opportunity that aligns with my skills!
