@@ -31,9 +31,11 @@ algorithmic trading tools, and shoot landscape & travel photography on the side.
 - 💼 **Job opportunities** — ML / Data Science / quantitative roles
 - 🤝 **Collaborations** — machine learning projects, trading systems, or Pine Script work
 
-## 📌 Featured project
+## 📌 Featured projects
 
-- [**danilzanozin.com**](https://danilzanozin.com) ([source](https://github.com/danilmezor/PhotoWeb)) — my photography portfolio: a React 19 + Vite app with a build-time prerender for SEO, a Gaussian-splat 3D photo viewer, and WebGL depth-parallax galleries.
+- 📈 **[Kadabra — Systematic Cryptocurrency Trading Framework](https://danilmezor.github.io/capstone-2026/)** — my capstone: an end-to-end algorithmic trading system with a live execution engine (Binance / Hyperliquid WebSocket feeds, O(1) ring-buffer caching, technical + fractional-differencing features) and an offline research pipeline with rigorous robustness testing (Probability of Backtest Overfitting, Deflated Sharpe, Monte-Carlo permutation, out-of-sample). Q1 2026: 10.59% return at a 1.25 Sharpe vs ETH's −20.9%.
+- 🐎 **[Wild Horse Analytics](https://dxhub.calpoly.edu/ai-summer-camp-archive/csu-ai-summer-camp-projects/wild-horse-analytics-csu/)** — AI for university dining operations (demand forecasting, predictive staffing, scenario planning), built with a team at the **Cal Poly DxHub** CSU AI Summer Camp.
+- 📷 **[danilzanozin.com](https://danilzanozin.com)** ([source](https://github.com/danilmezor/PhotoWeb)) — my photography portfolio: a React 19 + Vite app with a build-time prerender for SEO, a Gaussian-splat 3D photo viewer, and WebGL depth-parallax galleries.
 
 ## 📫 Reach me
 
